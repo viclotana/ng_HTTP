@@ -1,0 +1,17 @@
+nav {
+    background: #2d2e2e;
+    height: 100%;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li a {
+    color: #fff;
+    padding: 20px;
+    display: block;
+}
+nav ul li .activated {
+    background-color: #00a8ff;
+}
