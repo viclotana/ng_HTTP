@@ -1,6 +1,7 @@
 # Ngcanvas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+## It contains the demo code for [my Pusher Tutorial](https://pusher.com/tutorials/error-handling-angular-part-2)
 
 ## Development server
 
